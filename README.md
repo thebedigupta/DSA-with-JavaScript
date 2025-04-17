@@ -83,7 +83,7 @@ Example in code
 
 Example
 
-[Example of O of n power 2](../DSA-with-JavaScript/assests/Example%20of%20O%20of%20n%20Power%202.png)
+![Example of O of n power 2](../DSA-with-JavaScript/assests/Example%20of%20O%20of%20n%20Power%202.png)
 
 Code Sample for brief Understanding
 
